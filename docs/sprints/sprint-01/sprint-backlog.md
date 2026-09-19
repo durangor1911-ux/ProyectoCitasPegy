@@ -80,4 +80,4 @@ Implementar la navegación principal del catálogo de comercios y la vista detal
 
 ## Notas del Equipo
 
-_(Espacio reservado para registrar decisiones durante el Sprint, acuerdos tomados en las reuniones diarias o impedimentos resueltos)_
+_(Espacio reservado para registrar nuevas observaciones durante el Sprint, acuerdos tomados en las reuniones diarias o impedimentos resueltos)_
