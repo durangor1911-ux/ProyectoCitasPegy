@@ -34,6 +34,7 @@ _(Descripción breve de lo que se mostró al equipo/interesados: pantallas const
 ## Qué salió bien
 
 -
+
 -
 
 ## Qué problemas aparecieron y cómo se resolvieron
